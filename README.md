@@ -17,3 +17,5 @@ Disabled (Single mode) DOESN'T WORK as I need to read the BNO085 in this mode lu
 I think this is the version I used maize drilling. It may have variables specific to my installation and there are variables defined that are not used in this version.
 
 I've had LOTS of versions!!
+
+My codding ability does not match my conceptual unserstanding ability either!!
