@@ -13,3 +13,7 @@ Faster reacting GPS speed woud help.
 
 Select DIFFERENTIAL MODE for ADS to enable it.
 Disabled (Single mode) DOESN'T WORK as I need to read the BNO085 in this mode lust to keep the BNO085 happy.
+
+I think this is the version I used maize drilling. It may have variables specific to my installation and there are variables defined that are not used in this version.
+
+I've had LOTS of versions!!
