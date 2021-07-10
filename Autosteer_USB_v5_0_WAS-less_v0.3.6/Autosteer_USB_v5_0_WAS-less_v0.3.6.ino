@@ -1,6 +1,7 @@
   /*
   * USB Autosteer code For AgOpenGPS
   * 4 Feb 2021, Brian Tischler
+  * Modified by Alan Webb to attempt WAS less steer
   * Like all Arduino code - copied from somewhere else :)
   * So don't claim it as your own
   */
