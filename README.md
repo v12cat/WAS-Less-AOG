@@ -18,4 +18,4 @@ I think this is the version I used maize drilling. It may have variables specifi
 
 I've had LOTS of versions!!
 
-My codding ability does not match my conceptual unserstanding ability either!!
+My codding ability does not match my conceptual understanding ability either!!
